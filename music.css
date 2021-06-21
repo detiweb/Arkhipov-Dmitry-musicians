@@ -1,0 +1,30 @@
+body{
+	background: url(beatles.jpg);
+}
+body{
+	font-family: 'Comfortaa', cursive;
+}
+p{
+	background: yellow;
+	color: darkblue;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: underline;
+}
+h1{
+	font-size: 50px;
+	background: white;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	background: purple;
+	color: white;
+	font-size: 35px;
+}
+img{
+	border: 5px solid cyan;
+	border-radius: 5px;
+	margin-left: 49%;
+	width: 50%;
+}
